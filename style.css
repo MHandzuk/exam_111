@@ -446,7 +446,9 @@ h6 {
 
 .page_5 {
   width: 100%;
-  background: url(images/mont_sp.png) no-repeat center/cover;
+  background-image: url("images/tourist.jpg");
+  -webkit-background-size: cover;
+  background-size: cover;
   height: 680px;
   display: flex;
   justify-content: center;
